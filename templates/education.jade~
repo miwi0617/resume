@@ -3,4 +3,3 @@ h5 University of Colorado at Boulder
 ul
 	each item in contents['education.json'].metadata 
 		li= item.topic + ": " + item.class
-
