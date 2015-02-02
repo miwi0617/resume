@@ -1,0 +1,18 @@
+[{
+    "company": "CIRES",
+    "position": "Webmaster",
+    "start_date": "September 2014",
+    "end_date": "Present",
+    "desc": [
+        "Designed webpages and modified the appearance and setting of the site",
+  	"Responsible for providing technical support related to computer systems, hardware, and software." 
+   ]
+}, {
+    "company": "NCWIT",
+    "position": "Webmaster",
+    "start_date": "Feb 2014",
+    "end_date": "Aug 2014",
+    "desc": [
+        "Worked with clients to design courses and programs for women in computing"
+    ]
+}]
