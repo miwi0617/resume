@@ -1,1 +1,36 @@
-[]
+[
+{
+    "title": "HTML & CSS",
+    "image": "html.png"
+},
+{
+    "title": "PHP",
+    "image": "php.png"
+},
+{
+    "title": "JavaScript",
+    "image": "js.png"
+},
+{
+    "title": "MySQL",
+    "image": "mysql.jpeg"
+},
+{
+    "title": "Python",
+    "image": "python.png"
+},
+{
+    "title": "C++",
+    "image": "cpp.png"
+},
+{
+    "title": "Object-Oriented Design",
+    "description": "I know about utilizing object-oriented programming along with RESTful design practices to optimize my code's capabilities.",
+    "image": "ood.jpeg"
+},
+{
+    "title": "Agile Software Development",
+    "description": "I have worked with numerous agile teams that follow the scrum methedologies, working in sprints and using user stories to track and guide our teamwork.",
+    "image": "agile.jpeg"
+}
+]

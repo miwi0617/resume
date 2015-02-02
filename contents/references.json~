@@ -1,0 +1,11 @@
+[{
+    "company": "Seagate",
+    "name": "Iky Chan",
+    "position": "Manager",
+    "email": "iky.chan@seagate.com"
+}, {
+    "company": "Seagate",
+    "name": "Mike Salazar",
+    "position": "Project Lead",
+    "email": "michael.salazar@seagate.com"	
+}]

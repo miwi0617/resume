@@ -9,4 +9,5 @@ block content
    include honors
    include references
    include hobby
+   include travel
    

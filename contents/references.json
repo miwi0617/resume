@@ -1,1 +1,11 @@
-[]
+[{
+    "company": "NCWIT",
+    "name": "Rebecca Rowley",
+    "position": "Manager",
+    "email": "Rebecca.Rowley@colorado.edu"
+}, {
+    "company": "CIRES",
+    "name": "Kiki Holl",
+    "position": "Webmaster",
+    "email": "christine.holl@colorado.edu"	
+}]

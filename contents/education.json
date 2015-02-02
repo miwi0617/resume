@@ -1,1 +1,17 @@
-[]
+[{
+	"topic": "Major",
+    "class": "Computer Science"
+
+}, {
+	"topic": "Track",
+    "class": "Software Engineering"
+
+}, {
+	"topic": "Minor",
+    "class": "Japanese"
+
+}, {
+	"topic": "GPA",
+	"class": "3.5"
+
+}]
